@@ -34,7 +34,7 @@
 ### 5. 聯絡方式
 如果您對本隱私政策有任何疑問，或需要處理資料刪除請求，請聯繫：
 * **開發者：** [dcid naykkei]
-* **GitHub 專案：** [https://github.com/witt3c/wittbot](https://github.com/witt3c/wittbot)
+* **GitHub 專案：** [https://github.com/naykkei/rwittdcbot](https://github.com/naykkei/rwittdcbot)
 
 ---
 *本政策可能隨功能更新而變動，建議定期查看本頁面以獲取最新資訊。*
