@@ -33,7 +33,7 @@
 
 ### 5. 聯絡方式
 如果您對本隱私政策有任何疑問，或需要處理資料刪除請求，請聯繫：
-* **開發者：** [請在此填寫你的 Discord ID 或聯絡信箱]
+* **開發者：** [dcid naykkei]
 * **GitHub 專案：** [https://github.com/witt3c/wittbot](https://github.com/witt3c/wittbot)
 
 ---
